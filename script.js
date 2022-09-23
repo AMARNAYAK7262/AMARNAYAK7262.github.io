@@ -21,13 +21,13 @@ $(document).ready(function () {
     })
 
     var typed = new Typed(".typing-2", {
-        strings: ["Java-Developer", "Web-Developer"],
+        strings: ["Java-Developer", "Web-Developer"         ],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     })
 
-
+    
     // owl carousel script
     $(".carousel").owlCarousel({
         margin: 20,
